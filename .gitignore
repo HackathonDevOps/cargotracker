@@ -1,0 +1,9 @@
+*.class
+*.log
+target
+.idea
+*.iml
+.project
+.classpath
+.settings
+nbactions.xml
